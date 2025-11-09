@@ -1,0 +1,7 @@
+{
+  "name": "StoryNest",
+  "description": "An engaging, safe, and ad-free mobile app where children can listen to bedtime stories and parents can personalize stories using their child’s name, character, or even record their own narration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
